@@ -11,7 +11,7 @@ pytz==2020.1
 sqlparse==0.3.1
 
 
-user: admin1234
+user: gene
 pass: qwerty@123
 
 sudo apt install virtualenv
