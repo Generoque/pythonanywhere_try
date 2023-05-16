@@ -11,11 +11,11 @@ pytz==2020.1
 sqlparse==0.3.1
 
 
-user: gene
-pass: qwerty@123
+#user: gene
+#pass: qwerty@123
 
-sudo apt install virtualenv
-virtualenv newenv
-source newenv/bin/activate
-python manage.py migrate
-python manage.py runserver
+#sudo apt install virtualenv
+#virtualenv newenv
+#source newenv/bin/activate
+#python manage.py migrate
+#python manage.py runserver
